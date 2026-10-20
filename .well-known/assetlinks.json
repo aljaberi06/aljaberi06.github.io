@@ -1,8 +1,8 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.aljaberi06.twa",
-        "sha256_cert_fingerprints": ["BC:CF:F1:AA:D0:FA:85:80:86:A3:DD:BC:03:1E:82:36:3D:01:8C:22:BE:8B:4C:A1:70:C2:9F:4D:0A:D2:3E:54"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.aljaberi06.twa",
+    "sha256_cert_fingerprints": ["C7:69:56:0C:5A:1F:32:AB:B9:88:C6:43:45:06:30:51:DD:D7:B4:BF:7F:49:44:43:C5:3F:A6:D7:C2:8D:F4:9C"]
+  }
+}]
